@@ -2,7 +2,9 @@
 
 The Python Jupyer notebook [e_periodica_metadata_fulltext.ipynb](https://github.com/k-woitas/e-periodica-access/blob/main/e_periodica_metadata_fulltext.ipynb) aims to help you with **accessing metadata and fulltexts of [e-periodica](https://www.e-periodica.ch/)**, the platform for digitized and digital journals from Switzerland. It uses the [OAI-PMH](https://www.openarchives.org/pmh/) interface of the e-periodica service for retrieving metadata in different formats, and the e-periodica website in addition for downloading fulltexts.
 
-**No Python available** on your machine? Use the online Jupyter notebook with Binder: [![Binder](https://hub.gke2.mybinder.org/user/k-woitas-e-periodica-access-7025qpmj/notebooks/e_periodica_metadata_fulltext.ipynb)
+**No Python available** on your machine? Use the online Jupyter notebook with Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/k-woitas/e-periodica-access/HEAD?filepath=e_periodica_metadata_fulltext.ipynb)
+
+Copy markdown link to clipboard 
 
 Also, a **static version** of the notebook is available via [Jupyter nbviewer](https://nbviewer.jupyter.org/github/k-woitas/e-periodica-access/blob/main/e_periodica_metadata_fulltext.ipynb).
 
