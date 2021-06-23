@@ -6,7 +6,7 @@ The Python Jupyer notebook [e_periodica_metadata_fulltext.ipynb](https://github.
 
 Copy markdown link to clipboard 
 
-Also, a **static version** of the notebook is available via [Jupyter nbviewer](https://nbviewer.jupyter.org/github/k-woitas/e-periodica-access/blob/main/e_periodica_metadata_fulltext.ipynb).
+Also, a **static version** of the notebook is available via [Jupyter nbviewer](https://nbviewer.jupyter.org/github/k-woitas/e-periodica-access/blob/main/e_periodica_metadata_fulltext.ipynb?flush_cache=true).
 
 The notebook consists of four parts:
 
